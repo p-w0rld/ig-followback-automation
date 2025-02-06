@@ -29,8 +29,8 @@ Before using this script, ensure you have the following:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/p-w0rld/instagram-follow-back.git
-   cd instagram-follow-back
+   git clone https://github.com/p-w0rld/ig-followback-automation.git
+   cd ig-followback-automation
    ```
 
 2. **Set Up a Virtual Environment:**
@@ -160,6 +160,6 @@ This script is for educational purposes only. Use it at your own risk. The devel
 
 ## **Support**
 
-If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/p-w0rld/instagram-follow-back).
+If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/p-w0rld/ig-followback-automation).
 
 ---
